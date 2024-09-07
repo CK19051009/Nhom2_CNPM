@@ -1,0 +1,1 @@
+audio_play_sound(sou_background_music,0,0)

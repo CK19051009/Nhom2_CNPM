@@ -1,0 +1,2 @@
+audio_group_load(audiogroup_background)
+audio_group_load(audiogroup_soundefffect)

@@ -1,0 +1,1 @@
+draw_healthbar(0, 0, 0, 0, 100, $FF00FF00 & $FFFFFF, $FF7F7F7F & $FFFFFF, $FF7F7F7F & $FFFFFF, 0, (($FF00FF00>>24) != 0), (($FFFFFFFF>>24) != 0));

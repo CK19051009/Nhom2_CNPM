@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sou_jump",
+  "audioGroupId":{
+    "name":"audiogroup_soundefffect",
+    "path":"audiogroups/audiogroup_soundefffect",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.287347,
+  "name":"sou_jump",
+  "parent":{
+    "name":"Player",
+    "path":"folders/Sounds/Player.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sou_jump.mp3",
+  "type":0,
+  "volume":0.29,
+}

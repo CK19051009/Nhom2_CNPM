@@ -1,0 +1,1 @@
+instance_create_layer(896,640,"Instances",obj_boss_lose)

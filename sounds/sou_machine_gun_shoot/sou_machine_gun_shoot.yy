@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sou_machine_gun_shoot",
+  "audioGroupId":{
+    "name":"audiogroup_soundefffect",
+    "path":"audiogroups/audiogroup_soundefffect",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":4.832653,
+  "name":"sou_machine_gun_shoot",
+  "parent":{
+    "name":"Weapon",
+    "path":"folders/Sounds/Weapon.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sou_machine_gun_shoot.mp3",
+  "type":0,
+  "volume":0.21,
+}

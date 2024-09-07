@@ -1,0 +1,5 @@
+_x = camera_get_view_x(view_camera[0])
+_y = camera_get_view_y(view_camera[0])
+draw_sprite(spr_shop,0,_x+565,_y+20)
+draw_sprite(spr_coin,0,_x+815,_y+205)
+draw_text_transformed_color(_x+905,_y+197,string(global.coin),4,4,0,c_white,c_white,c_white,c_white,255)

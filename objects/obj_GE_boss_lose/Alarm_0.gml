@@ -1,0 +1,1 @@
+instance_create_layer(0,0,"Instances",obj_GE_boss_lose_text)

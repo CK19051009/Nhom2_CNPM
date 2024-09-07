@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sou_chest_2",
+  "audioGroupId":{
+    "name":"audiogroup_soundefffect",
+    "path":"audiogroups/audiogroup_soundefffect",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.063673,
+  "name":"sou_chest_2",
+  "parent":{
+    "name":"Vat pham",
+    "path":"folders/Sounds/Vat pham.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sou_chest_2.mp3",
+  "type":0,
+  "volume":0.6,
+}

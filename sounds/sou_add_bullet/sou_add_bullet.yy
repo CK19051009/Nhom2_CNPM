@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sou_add_bullet",
+  "audioGroupId":{
+    "name":"audiogroup_soundefffect",
+    "path":"audiogroups/audiogroup_soundefffect",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.044898,
+  "name":"sou_add_bullet",
+  "parent":{
+    "name":"Weapon",
+    "path":"folders/Sounds/Weapon.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sou_add_bullet.mp3",
+  "type":0,
+  "volume":1.0,
+}

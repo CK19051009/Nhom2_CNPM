@@ -1,0 +1,1 @@
+time_shake = 60

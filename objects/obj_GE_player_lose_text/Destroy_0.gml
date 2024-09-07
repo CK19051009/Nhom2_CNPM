@@ -1,0 +1,1 @@
+instance_create_layer(640,640,"Instances",obj_player_lose)

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sou_earthquake",
+  "audioGroupId":{
+    "name":"audiogroup_soundefffect",
+    "path":"audiogroups/audiogroup_soundefffect",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.933061,
+  "name":"sou_earthquake",
+  "parent":{
+    "name":"Other",
+    "path":"folders/Sounds/Other.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sou_earthquake.mp3",
+  "type":0,
+  "volume":0.26,
+}

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sou_slash",
+  "audioGroupId":{
+    "name":"audiogroup_soundefffect",
+    "path":"audiogroups/audiogroup_soundefffect",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.123265,
+  "name":"sou_slash",
+  "parent":{
+    "name":"Weapon",
+    "path":"folders/Sounds/Weapon.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sou_slash.mp3",
+  "type":0,
+  "volume":0.49,
+}

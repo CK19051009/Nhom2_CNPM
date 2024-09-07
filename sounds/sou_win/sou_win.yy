@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"sou_win",
+  "audioGroupId":{
+    "name":"audiogroup_background",
+    "path":"audiogroups/audiogroup_background",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":3.239184,
+  "name":"sou_win",
+  "parent":{
+    "name":"Other",
+    "path":"folders/Sounds/Other.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"sou_win.mp3",
+  "type":0,
+  "volume":1.0,
+}
